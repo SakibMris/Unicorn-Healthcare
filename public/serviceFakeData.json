@@ -1,0 +1,38 @@
+[
+    {
+        "id": 1,
+        "name": "Find a doctor",
+        "description": "We have specialized doctors with higher degrees from abroad.Find doctors with Unicorn Health",
+        "image": "https://image.freepik.com/free-photo/stethoscope-graphics_1134-456.jpg"
+    },
+    {
+        "id": 2,
+        "name": "Hospital Service",
+        "description": "We have specialized doctors with higher degrees from abroad.Find doctors with Unicorn Health",
+        "image": "https://image.freepik.com/free-photo/team-doctors-standing-together-hospital-premises_107420-84768.jpg"
+    },
+    {
+        "id": 3,
+        "name": "Cardiac Service",
+        "description": "We have specialized doctors with higher degrees from abroad.Find doctors with Unicorn Health",
+        "image": "https://image.freepik.com/free-photo/hand-cupping-stethoscope-health-concept_53876-129536.jpg"
+    },
+    {
+        "id": 4,
+        "name": "DENTAL SERVICE",
+        "description": "We have specialized doctors with higher degrees from abroad.Find doctors with Unicorn Health",
+        "image": "https://image.freepik.com/free-photo/plastic-jaw-dentistry-clinic_1303-24382.jpg"
+    },
+    {
+        "id": 5,
+        "name": "REHABILITATION CENTER",
+        "description": "We have specialized doctors with higher degrees from abroad.Find doctors with Unicorn Health",
+        "image": "https://image.freepik.com/free-photo/senior-man-speaking-with-him-children-phone-near-nursing-home_496169-723.jpg"
+    },
+    {
+        "id": 6,
+        "name": "Appointment",
+        "description": "We have specialized doctors with higher degrees from abroad.Find doctors with Unicorn Health",
+        "image": "https://image.freepik.com/free-photo/unrecognizable-businesswoman-sitting-desk-with-laptop-looking-calendar_1098-20530.jpg"
+    }
+]
