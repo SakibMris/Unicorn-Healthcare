@@ -14,13 +14,13 @@ Live Demo : https://unicorn-healthcare.web.app/
 * Implementation of export button in admin module to export all details to an excel sheet.
 
 **Prerequisites**
-⦿Any Editor (Preferably VS Code or Sublime Text)
-⦿Any web browser with latest version
+* Any Editor (Preferably VS Code or Sublime Text)
+* Any web browser with latest version
 
 **Languages and Technologies used**
-⦿HTML5/CSS3
-⦿JavaScript (to create dynamically updating content)
-⦿Bootstrap (An HTML, CSS, and JS library)
-⦿React.js
-⦿Firebase (For hosting and use authentication)
+* HTML5/CSS3
+* JavaScript (to create dynamically updating content)
+* Bootstrap (An HTML, CSS, and JS library)
+* React.js
+* Firebase (For hosting and use authentication)
 
