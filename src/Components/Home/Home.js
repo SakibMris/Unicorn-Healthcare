@@ -2,7 +2,7 @@ import React from 'react';
 
 const Home = () => {
     return (
-        <div >
+        <div>
             <div className="container-fluid">
                 <div id="carouselExampleCaptions" class="carousel slide" data-bs-ride="carousel">
                     <div class="carousel-indicators">

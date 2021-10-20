@@ -2,37 +2,37 @@
     {
         "id": 1,
         "name": "Find a doctor",
-        "description": "We have specialized doctors with higher degrees from abroad.Find doctors with Unicorn Health",
+        "description": "A doctor is responsible for all sides of care of a patient. They diagnose, educate, and treat patients to ensure that they have the best possible care. A few of the main duties of a doctor are performing diagnostic tests, recommending specialists for patients, document patient's medical history, and educating patients.",
         "image": "https://image.freepik.com/free-photo/stethoscope-graphics_1134-456.jpg"
     },
     {
         "id": 2,
         "name": "Hospital Service",
-        "description": "We have specialized doctors with higher degrees from abroad.Find doctors with Unicorn Health",
+        "description": "Many hospitals offer a wide range of services, including emergency care, scheduled surgeries, labor and delivery services, diagnostic testing, lab work, and patient education. Depending on their health situation, patients may receive inpatient or outpatient care from a hospital.",
         "image": "https://image.freepik.com/free-photo/team-doctors-standing-together-hospital-premises_107420-84768.jpg"
     },
     {
         "id": 3,
         "name": "Cardiac Service",
-        "description": "We have specialized doctors with higher degrees from abroad.Find doctors with Unicorn Health",
+        "description": "Cardiology focuses on the diagnosis and treatment of the cardiovascular system - heart, arteries, and veins. Your Cardiologist may order specialized testing to determine which treatment options are best for you.",
         "image": "https://image.freepik.com/free-photo/hand-cupping-stethoscope-health-concept_53876-129536.jpg"
     },
     {
         "id": 4,
-        "name": "DENTAL SERVICE",
-        "description": "We have specialized doctors with higher degrees from abroad.Find doctors with Unicorn Health",
+        "name": "Dental Care Service",
+        "description": "Dental care is the maintenance of healthy teeth and may refer to: Oral hygiene, the practice of keeping the mouth and teeth clean in order to prevent dental disorders. Dentistry, the professional care of teeth, including professional oral hygiene and dental surgery. ",
         "image": "https://image.freepik.com/free-photo/plastic-jaw-dentistry-clinic_1303-24382.jpg"
     },
     {
         "id": 5,
         "name": "REHABILITATION CENTER",
-        "description": "We have specialized doctors with higher degrees from abroad.Find doctors with Unicorn Health",
+        "description": "The process of restoring a person's ability to live and work as normally as possible after a disabling injury or illness. It aims to help the patient achieve maximum possible physical and psychologic fitness and regain the ability to be independent.",
         "image": "https://image.freepik.com/free-photo/senior-man-speaking-with-him-children-phone-near-nursing-home_496169-723.jpg"
     },
     {
         "id": 6,
         "name": "Appointment",
-        "description": "We have specialized doctors with higher degrees from abroad.Find doctors with Unicorn Health",
+        "description": "Mention if you are a new patient, so they can get all of your information. Tell the scheduler if you need a physical exam. Mention if you have a sore back, sore throat, etc. Describe all of your symptoms, so a specific amount of time can be set aside for you.",
         "image": "https://image.freepik.com/free-photo/unrecognizable-businesswoman-sitting-desk-with-laptop-looking-calendar_1098-20530.jpg"
     }
 ]
