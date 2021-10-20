@@ -1,70 +1,41 @@
-# Getting Started with Create React App
+Unicorn Healthcare Center
+Unicorn Healthcare Center using React.js,HTML,CSS and Bootstrap
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
+Live Demo : https://unicorn-healthcare.web.app/
 
-In the project directory, you can run:
-
-### `npm start`
-
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
-
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
-
-### `npm test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
-
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+Need to work on:
+Ability to accept the appointment by the doctor to acknowledge the patient that their appointment has been approved.
+User should not be allowed to register if he/she tries to provide the already registered email ID.
+The password should be encrypted and the password field shouldn't be displayed in the admin panel.
+Implementation of pagination for all the list view across the application.
+Bug fix - Bill payment receipt contains multiple record if the patient has associated with the same doctor multiple times.
+Addition of more fields in the prescription statement to make it more specific one.
+Addition of more details on payment - such as date of the payment made, amount paid, etc.
+Implementation of export button in admin module to export all details to an excel sheet.
+Prerequisites
+Install XAMPP web server
+Any Editor (Preferably VS Code or Sublime Text)
+Any web browser with latest version
+Languages and Technologies used
+HTML5/CSS3
+JavaScript (to create dynamically updating content)
+Bootstrap (An HTML, CSS, and JS library)
+XAMPP (A web server by Apache Friends)
+Php
+MySQL (An RDBMS that uses SQL)
+TCPDF (to generate PDFs)
+Steps to run the project in your machine
+Download and install XAMPP in your machine
+Clone or download the repository
+Extract all the files and move it to the 'htdocs' folder of your XAMPP directory.
+Start the Apache and Mysql in your XAMPP control panel.
+Open your web browser and type 'localhost/phpmyadmin'
+In phpmyadmin page, create a new database from the left panel and name it as 'myhmsdb'
+Import the file 'myhmsdb.sql' inside your newly created database and click ok.
+Open a new tab and type 'localhost/foldername' in the url of your browser
+Hurray! That's it!
+SOFTWARES USED
+XAMPP was installed on the Ubuntu 19.04 machine and APACHE2 Server and MySQL were initialized. And, files were built inside opt/lampp/htdocs/myhmsp
+Sublime Text 3.2 was used as a text editor.
+Google Chrome Version 77.0.3865.90 was used to run the project (localhost/myhmsp was used as the url).
