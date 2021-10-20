@@ -1,0 +1,38 @@
+[
+    {
+        "id": 1,
+        "name": "Neurology Department",
+        "image": "https://image.freepik.com/free-photo/neurological-doctor-cheking-eeg-headset-explaining-patient-diagnosis-disease-treatment-nervous-system-scientist-researcher-analysing-brain-scan-tomography-monitor-lab_482257-13083.jpg",
+        "description": "Neurology is the branch of medicine concerned with the study and treatment of disorders of the nervous system. The nervous system is a complex, sophisticated system that regulates and coordinates body activities. It has two major divisions: Central nervous system: the brain and spinal cord."
+    },
+    {
+        "id": 2,
+        "name": "Medicine Department",
+        "image": "https://image.freepik.com/free-photo/medicine-bottles-pills_1160-370.jpg",
+        "description": " A division of a local or larger government responsible for the oversight and care of matters relating to public health.Consultation, investigation, procedures, specialty services. 2. Preventive and promotive health care: Clinics, which include: diabetic, antenatal, postnasal and under five."
+    },
+    {
+        "id": 3,
+        "name": "Cardiology Department",
+        "image": "https://image.freepik.com/free-photo/elderly-woman-doctor-appointment-modern-private-clinic-while-she-sitts-hospital-bed-physician-is-listening-her-heart-beat-health-care-medicine-treatment-specialist-consultation_482257-4267.jpg",
+        "description": "Cardiology is a medical specialty and a branch of internal medicine concerned with disorders of the heart. It deals with the diagnosis and treatment of such conditions as congenital heart defects, coronary artery disease, electrophysiology, heart failure and valvular heart disease."
+    },
+    {
+        "id": 4,
+        "name": "Pathology Department",
+        "image": "https://img.freepik.com/free-photo/scientist-special-equipment-is-showing-coronavirus-testing-sample_1157-31355.jpg?size=338&ext=jpg",
+        "description": "Pathology is a branch of medical science that involves the study and diagnosis of disease through the examination of surgically removed organs, tissues (biopsy samples), bodily fluids, and in some cases the whole body (autopsy)."
+    },
+    {
+        "id": 5,
+        "name": "Radiology Department",
+        "image": "https://img.freepik.com/free-photo/portrait-doctor_144627-39413.jpg?size=626&ext=jpg",
+        "description": "Radiology is a medical specialty that uses imaging to diagnose and treat diseases seen within the body. ... The radiology department may also be called the X-ray or imaging department. It is the facility in the hospital where radiological examinations of patients are carried out, using the range of equipment listed above."
+    },
+    {
+        "id": 6,
+        "name": "Dental Department",
+        "image": "https://image.freepik.com/free-photo/heal-specialist-procedure-cure-patient_1301-3116.jpg",
+        "description": "Dental clinics focus on patient education to prevent disease and provide treatment options for the same procedures offered in general and (some) specialty practices. A clinic houses all dental equipment and tools in one place and is staffed by dentists, dental specialists, dental assistants, and dental hygienists."
+    }
+]
