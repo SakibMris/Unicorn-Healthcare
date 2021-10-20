@@ -8,7 +8,7 @@ const ShowServiceDetail = () => {
         fetch(`/serviceFakeData.json`)
             .then(res => res.json())
             .then(data => setDetails(data))
-    }, [])
+    }, [id])
     const getSingleDetail = details.find(detail => detail.id == id);
     console.log(getSingleDetail);
     return (
