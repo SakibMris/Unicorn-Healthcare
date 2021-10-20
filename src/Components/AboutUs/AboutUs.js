@@ -3,8 +3,8 @@ import React from 'react';
 const AboutUs = () => {
     return (
         <div>
-            <div className="border rounded  m-5 text-start p-3" style={{ backgroundColor: 'salmon' }}>
-                <h1 className="bg-primary my-3 text-center p-2 rounded">Quality and Policy</h1>
+            <div className="border rounded  m-5 text-start p-3" style={{ backgroundColor: 'AntiqueWhite' }}>
+                <h1 className=" my-3 text-center p-2 rounded" style={{ backgroundColor: 'Aquamarine' }}>Quality and Policy</h1>
                 <p className="text-center">The quality of laboratory tests at Unicorn Healthcare Diagnostic Centre is ensured at every steps from sample collection to testing, from diagnosis to reporting.</p>
                 <h3>Sample Collection</h3>
                 <p>Unicorn Healthcare Centers have 2 separate sample collection booths for male and female. The samples for laboratory tests are collected by our experienced phlebotomists who are educated adequately for collection of pathological samples following standardized procedures. To wear Lab Coats is a must while working in sample collection booths. They must use sterile and disposable gloves during collection of samples. Unicorn Healthcare uses high quality disposable Vacuettes imported from the USA and disposable syringes for blood sample collection, storage and transport to the labs.</p>
@@ -23,10 +23,10 @@ const AboutUs = () => {
                 <h3>Bio-Medical Engineering Department</h3>
                 <p>A well-equipped bio-medical engineering department headed by an experienced and skillful Biomedical Engineer and other technical staff to ensure smooth running of the machineries and instruments.</p>
             </div>
-            <div className=" border rounded m-5 p-3" style={{ backgroundColor: "salmon" }}>
-                <h1 className="bg-primary rounded-pill mx-4 p-3">Mission an Vision</h1>
+            <div className=" border rounded m-5 p-3" style={{ backgroundColor: "AntiqueWhite" }}>
+                <h1 className=" rounded-pill mx-4 p-3" style={{ backgroundColor: 'Aquamarine' }}>Mission an Vision</h1>
                 <div className="d-flex justify-content-around ">
-                    <div className="border border-2 rounded-pill border-secondary p-3 m-3 bg-primary">
+                    <div className="border border-2 rounded-pill border-secondary p-3 m-3" style={{ backgroundColor: 'Aquamarine' }}>
                         <h3>
                             Vision
                         </h3>
@@ -35,7 +35,7 @@ const AboutUs = () => {
                             To be an institution that rises above pettiness to help humanity;
                         </p>
                     </div>
-                    <div className="border border-2 rounded-pill border-secondary p-3 m-3 bg-primary">
+                    <div className="border border-2 rounded-pill border-secondary p-3 m-3 " style={{ backgroundColor: 'Aquamarine' }}>
                         <h3>
                             Mision
                         </h3>

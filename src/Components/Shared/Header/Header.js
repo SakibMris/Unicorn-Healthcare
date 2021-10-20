@@ -1,7 +1,9 @@
 import React from 'react';
 import { NavLink } from 'react-router-dom';
+import useFirebase from '../../../Firebase/useFirebase';
 import "./Header.css"
 const Header = () => {
+    const { user, handleLogOut } = useFirebase()
     return (
         <div className="header navbar navbar-dark bg-primary p-3 d-flex justify-content-around">
             <div>
@@ -13,8 +15,15 @@ const Header = () => {
                 <NavLink to="contact">Contact Us</NavLink>
             </div>
             <div>
-                <NavLink to="/login">Login</NavLink>
-                <NavLink to="/register">Register</NavLink>
+                {user.email
+                    ?
+                    <button onClick={handleLogOut} className="btn btn-danger">Log Out</button>
+                    :
+                    <div>
+                        <NavLink to="/login">Login</NavLink>
+                        <NavLink to="/register">Register</NavLink>
+                    </div>
+                }
 
 
             </div>

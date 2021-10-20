@@ -10,8 +10,8 @@ const Footer = () => {
                         <li className="list-inline-item"><Link to="/home">Home</Link></li>
                         <li className="list-inline-item"><Link to="/services">Services</Link></li>
                         <li className="list-inline-item"><Link to="/about">About</Link></li>
-                        <li className="list-inline-item"><Link to="/contact">Contact Us</Link></li>
                         <li className="list-inline-item"><Link to="/departments">Departments</Link></li>
+                        <li className="list-inline-item"><Link to="/contact">Contact Us</Link></li>
                     </ul>
                     <p className="copyright">Unicorn Healthcare © 2021</p>
                 </footer>
